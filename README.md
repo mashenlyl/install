@@ -1,4 +1,3 @@
-## install
 
 安装软件
 
@@ -12,15 +11,15 @@
 
 （4）YouCompleteMe问题：
 
------- unavailable: requires Vim 7.4.1578+
+unavailable: requires Vim 7.4.1578+：
 
       安装vim8.0
 
-------找不到python库
+找不到python库：
 
       更新cmake到3.0版本
 
-最后编译成功：
+最后编译：
 
       $ cd ~/.vim/bundle/YouCompleteMe
       
