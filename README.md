@@ -23,6 +23,6 @@ unavailable: requires Vim 7.4.1578+：
 
       $ cd ~/.vim/bundle/YouCompleteMe
       
-      $ ./install.py (cmake required)
+      $ ./install.py (cmake required) [--clang-completer]
 
 
